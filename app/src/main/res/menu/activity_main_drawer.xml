@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nid"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="الاستعلام عن الرقم" />
+        <item
+            android:id="@+id/nidd"
+            android:icon="@drawable/ic_menu_send"
+            android:title="طباعة نموذج جوز السفر" />
+        <item
+            android:id="@+id/niddd"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="حجز مواعيد سفر" />
+        <item
+            android:id="@+id/nidddd"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="برمجة وتنفيد" />
+    </group>
+
+
+
+</menu>
